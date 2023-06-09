@@ -5,7 +5,7 @@ import bgImage from './img/image1.png'
 function App() {
   return (
     <body className="bg-zinc-900 lg:bg-gradient-to-br from-zinc-900 to-zinc-800 w-screen h-screen flex justify-center items-center">
-	<section className="w-5/6 md:w-1/2 bg-zinc-950 rounded-3xl flex">
+	<section className="w-5/6 md:w-1/2 bg-[#070707] rounded-3xl flex">
 		<section 
       id="form" 
       className="basis-full lg:basis-5/12 flex flex-col items-center text-white">
