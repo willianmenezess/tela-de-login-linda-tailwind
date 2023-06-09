@@ -10,7 +10,7 @@ function App() {
       id="form" 
       className="basis-full lg:basis-5/12 flex flex-col items-center text-white">
 			<div className="flex items-baseline gap-1">
-        <h1 className="font-sans text-2xl text-white font-bold my-12">Faça o seu Login</h1>
+        <h1 className="font-sans text-3xl text-white font-bold my-12">Faça seu Login</h1>
         <span className="w-3 h-3 bg-gradient-to-tr from-[#4158D0] via-[#C850C0] via-46% to-[#FFCC70] rounded-full inline-block"></span>
       </div>	
 			<form className="flex flex-col px-5 gap-8 text-gray-400 pb-10">
